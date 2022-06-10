@@ -1,0 +1,106 @@
+2022-06-10 14:57:14,162 - Load properties file:iselenium.properties
+2022-06-10 14:57:14,165 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 14:57:14,166 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 14:57:14,166 - Load webdriver path
+2022-06-10 14:57:14,167 - firefoxPath = null
+2022-06-10 14:57:14,168 - chromePath = null
+2022-06-10 14:57:14,168 - Current browser is firefox
+2022-06-10 14:57:14,173 - Automation test  finish!
+2022-06-10 15:00:48,869 - Load properties file:iselenium.properties
+2022-06-10 15:00:48,871 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:00:48,871 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:00:48,883 - Load webdriver path
+2022-06-10 15:00:48,883 - firefoxPath = null
+2022-06-10 15:00:48,884 - chromePath = null
+2022-06-10 15:00:48,884 - Current browser is firefox
+2022-06-10 15:00:48,887 - Automation test  finish!
+2022-06-10 15:01:02,558 - Load properties file:iselenium.properties
+2022-06-10 15:01:02,561 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:01:02,561 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:01:02,562 - Load webdriver path
+2022-06-10 15:01:02,562 - firefoxPath = null
+2022-06-10 15:01:02,562 - chromePath = null
+2022-06-10 15:01:18,741 - Current browser is firefox
+2022-06-10 15:01:18,748 - Automation test  finish!
+2022-06-10 15:01:18,767 - Load properties file:iselenium.properties
+2022-06-10 15:01:18,768 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:01:18,768 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:01:18,768 - Load webdriver path
+2022-06-10 15:01:18,768 - firefoxPath = null
+2022-06-10 15:01:18,769 - chromePath = null
+2022-06-10 15:01:20,280 - Current browser is firefox
+2022-06-10 15:01:20,281 - Automation test  finish!
+2022-06-10 15:04:38,901 - Load properties file:iselenium.properties
+2022-06-10 15:04:38,905 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:04:38,906 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:04:38,906 - Load webdriver path
+2022-06-10 15:04:38,906 - firefoxPath = null
+2022-06-10 15:04:38,907 - chromePath = null
+2022-06-10 15:06:44,841 - Current browser is firefox
+2022-06-10 15:06:44,848 - Automation test  finish!
+2022-06-10 15:08:51,365 - Load properties file:iselenium.properties
+2022-06-10 15:08:51,368 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:08:51,368 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:08:51,368 - Load webdriver path
+2022-06-10 15:08:51,368 - firefoxPath = null
+2022-06-10 15:08:51,369 - chromePath = null
+2022-06-10 15:08:57,252 - Load properties file:iselenium.properties
+2022-06-10 15:08:57,255 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:08:57,256 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:08:57,257 - Load webdriver path
+2022-06-10 15:08:57,258 - firefoxPath = null
+2022-06-10 15:08:57,259 - chromePath = null
+2022-06-10 15:09:00,791 - Load properties file:iselenium.properties
+2022-06-10 15:09:00,796 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:09:00,796 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:09:00,796 - Load webdriver path
+2022-06-10 15:09:00,797 - firefoxPath = null
+2022-06-10 15:09:00,797 - chromePath = null
+2022-06-10 15:09:05,709 - Load properties file:iselenium.properties
+2022-06-10 15:09:05,714 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:09:05,714 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:09:05,714 - Load webdriver path
+2022-06-10 15:09:05,715 - firefoxPath = null
+2022-06-10 15:09:05,715 - chromePath = null
+2022-06-10 15:09:05,715 - Current browser is chrome
+2022-06-10 15:09:05,720 - Automation test  finish!
+2022-06-10 15:09:11,223 - Current browser is chrome
+2022-06-10 15:09:11,228 - Automation test  finish!
+2022-06-10 15:09:13,931 - Current browser is chrome
+2022-06-10 15:09:13,938 - Automation test  finish!
+2022-06-10 15:10:20,028 - Current browser is chrome
+2022-06-10 15:10:20,033 - Automation test  finish!
+2022-06-10 15:10:49,464 - Load properties file:iselenium.properties
+2022-06-10 15:10:49,468 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 15:10:49,468 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 15:10:49,468 - Load webdriver path
+2022-06-10 15:10:49,469 - firefoxPath = null
+2022-06-10 15:10:49,469 - chromePath = null
+2022-06-10 15:10:49,469 - Current browser is chrome
+2022-06-10 15:11:20,382 - Automation test  finish!
+2022-06-10 15:19:50,960 - Load properties file:iselenium.properties
+2022-06-10 15:19:50,964 - Load webdriver path
+2022-06-10 15:19:50,964 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2022-06-10 15:19:50,964 - chromePath = E:\TS_Program\drivers\110\chromedriver.exe
+2022-06-10 15:19:50,964 - Current browser is chrome
+2022-06-10 15:19:58,582 - Automation test  finish!
+2022-06-10 15:22:58,419 - Load properties file:iselenium.properties
+2022-06-10 15:22:58,423 - Load webdriver path
+2022-06-10 15:22:58,423 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2022-06-10 15:22:58,423 - chromePath = E:\TS_Program\drivers\102\chromedriver.exe
+2022-06-10 15:22:58,424 - Current browser is chrome
+2022-06-10 15:23:02,783 - Start the automation test: Baidu search UI automation test.
+2022-06-10 15:23:02,784 - Open the www.baidu.com
+2022-06-10 15:23:09,848 - Search text: 今日头条
+2022-06-10 15:23:15,997 - Click the search button.
+2022-06-10 15:23:21,084 - Automation test Baidu search UI automation test. finish!
+2022-06-10 15:23:41,485 - Load properties file:iselenium.properties
+2022-06-10 15:23:41,488 - Load webdriver path
+2022-06-10 15:23:41,488 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2022-06-10 15:23:41,488 - chromePath = E:\TS_Program\drivers\102\chromedriver.exe
+2022-06-10 15:23:41,489 - Current browser is chrome
+2022-06-10 15:23:45,138 - Start the automation test: Baidu search UI automation test.
+2022-06-10 15:23:45,138 - Open the www.baidu.com
+2022-06-10 15:23:52,177 - Search text: 王者荣耀
+2022-06-10 15:23:58,319 - Click the search button.
+2022-06-10 15:24:03,444 - Automation test Baidu search UI automation test. finish!

@@ -104,3 +104,21 @@
 2022-06-10 15:23:52,177 - Search text: 王者荣耀
 2022-06-10 15:23:58,319 - Click the search button.
 2022-06-10 15:24:03,444 - Automation test Baidu search UI automation test. finish!
+2022-06-10 16:58:25,989 - Load properties file:iselenium.properties
+2022-06-10 16:58:25,993 - C:\Users\cgx\iselenium.properties (系统找不到指定的文件。)
+2022-06-10 16:58:25,993 - Load config file fail, please check C:\Users\cgx to confirm if the iselenium.properties file exist!
+2022-06-10 16:58:25,994 - Load webdriver path
+2022-06-10 16:58:25,994 - firefoxPath = null
+2022-06-10 16:58:25,994 - chromePath = null
+2022-06-10 16:58:25,995 - Current browser is chrome
+2022-06-10 16:58:25,998 - Automation test  finish!
+2022-06-10 16:59:00,357 - Load properties file:iselenium.properties
+2022-06-10 16:59:00,362 - Load webdriver path
+2022-06-10 16:59:00,363 - firefoxPath = C:\Program Files (x86)\webdriver\geckodriver.exe
+2022-06-10 16:59:00,363 - chromePath = E:\TS_Program\drivers\102\chromedriver.exe
+2022-06-10 16:59:00,364 - Current browser is chrome
+2022-06-10 16:59:05,537 - Start the automation test: Baidu search UI automation test.
+2022-06-10 16:59:05,538 - Open the www.baidu.com
+2022-06-10 16:59:12,521 - Search text: 今日头条
+2022-06-10 16:59:18,674 - Click the search button.
+2022-06-10 16:59:23,759 - Automation test Baidu search UI automation test. finish!

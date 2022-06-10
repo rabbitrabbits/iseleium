@@ -82,8 +82,8 @@ public abstract class WebUIBase {
     private Properties loadFromEnvProperties(String propFileName) {
         Properties prop = null;
 
-//        String path = System.getProperty("user.home");
-        String path = this.getClass().getClassLoader().getResource("").getPath();
+        String path = System.getProperty("user.home");
+//        String path = this.getClass().getClassLoader().getResource("").getPath();
 
         //读入envProperties属性文件
         try {
